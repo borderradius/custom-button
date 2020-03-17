@@ -1,0 +1,23 @@
+{
+  "name": "first-package",
+  "version": "0.0.1",
+  "description": "my first package",
+  "main": "first-package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borderradius/first-package.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "spacemonkey",
+  "license": "WTFPL",
+  "bugs": "https://github.com/borderradius/first-package/issues",
+  "homepage": ""
+}
