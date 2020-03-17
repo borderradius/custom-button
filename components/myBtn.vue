@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "CustomButton",
+  name: "MyBtn",
   props: {
     type: {
       type: String,
