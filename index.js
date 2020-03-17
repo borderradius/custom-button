@@ -1,7 +1,7 @@
-import AshButton from './components/AshButton.vue';
+import CustomButton from './components/CustomButton.vue';
 
 const install = (Vue) => {
-  Vue.component(AshButton.name, AshButton)
+  Vue.component(CustomButton.name, CustomButton)
 }
 
 // auto install if used in browser
@@ -11,7 +11,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 
 // 컴포넌트로 불러와서 사용가능
 export {
-  AshButton
+  CustomButton
 }
 
 // Vue.use로 사용가능
