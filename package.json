@@ -1,5 +1,5 @@
 {
-  "name": "@borderradius/customButton",
+  "name": "borderradius-custom-button",
   "version": "0.0.1",
   "description": "my first package",
   "main": "index.js",
