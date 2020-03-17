@@ -10,11 +10,11 @@ if (typeof window !== 'undefined' && window.Vue) {
 }
 
 // 컴포넌트로 불러와서 사용가능
-// export default {
-//   CustomButton
-// }
+export {
+  CustomButton
+}
 
 // Vue.use로 사용가능
-export default install
+// export default install
 
 
