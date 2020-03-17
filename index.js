@@ -15,6 +15,6 @@ export default {
 }
 
 // Vue.use로 사용가능
-// export default install
+export default install
 
 
