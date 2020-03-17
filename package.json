@@ -1,6 +1,6 @@
 {
   "name": "borderradius-custom-button",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "my first package",
   "main": "index.js",
   "scripts": {
